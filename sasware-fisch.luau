@@ -3,7 +3,7 @@
 --!native
 
 local PreloadConstants = {
-	PlaceVersionSupport = 3790,
+	PlaceVersionSupport = 3890,
 	BypassVersion = "V3",
 }
 
